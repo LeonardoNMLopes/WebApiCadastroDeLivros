@@ -1,0 +1,15 @@
+# Logs
+*.log
+
+# Visual Studio
+.vscode/
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+
+# NuGet
+*.nupkg
